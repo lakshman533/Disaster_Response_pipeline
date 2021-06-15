@@ -3,17 +3,17 @@ This Project is part of Data Science Nanodegree Program by [Udacity](https://cla
 
 # Table of Contents:
 
-1.Project Description
+1.[Project Description](https://github.com/lakshman533/Disaster_Response_pipeline/blob/main/README.md#project-description)
 
-2.Installations
+2.[Installations](https://github.com/lakshman533/Disaster_Response_pipeline#installations)
 
-3.File Descriptions
+3.[File Descriptions](https://github.com/lakshman533/Disaster_Response_pipeline#file-descriptions)
 
-4.Instructions
+4.[Instructions](https://github.com/lakshman533/Disaster_Response_pipeline#instructions)
 
-5.Results and Screenshots
+5.[Results and Screenshots](https://github.com/lakshman533/Disaster_Response_pipeline#results-and-screenshots)
 
-6.Licensing, Authors, Acknowledgements
+6.[Licensing, Authors, Acknowledgements](https://github.com/lakshman533/Disaster_Response_pipeline#licensing-authors-acknowledgements)
 
 
 # Project Description:
